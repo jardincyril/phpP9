@@ -1,0 +1,17 @@
+body{
+  background-image:url(http://eskipaper.com/images/desktop-wallpaper-36.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+table, tr, td, th{
+  border: 6px solid blue;
+  border-collapse: collapse;
+  font-size: 30px;
+  color: white;
+  background:rgba(0,0,0,0.5);
+  text-align: center;
+}
+h1{
+  font-size: 70px;
+  color: white;
+}
